@@ -5,4 +5,4 @@ A VERY simple webapp
 SQL scripts have been included to create the database structure & to load test data.
 
 # usage
-username "user1" and "mypassword"
+login with username "user1" and password "mypassword" to see demonstration.
