@@ -7,8 +7,6 @@
     // requirements
     require("helpers.php");
 
-    require("../vendor/autoload.php");
-    
     require("../lib/AlbumDB.php");
     AlbumDB::init(__DIR__ . "/../config.json");
 
